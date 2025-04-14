@@ -8,9 +8,9 @@
 创建 Manus 的社区： 聚集对 Manus 和通用 AI Agent 感兴趣的开发者、研究者和爱好者，共同推动这一领域的发展。
 无论您是经验丰富的 AI 开发者，还是对 AI Agent 充满好奇的初学者，都欢迎加入我们！让我们一起构建 Manus 的未来！
 
-<img width="400" alt="Manus" src="https://github.com/user-attachments/assets/f1f738fb-49e1-42c5-8837-2cbe71e1afa1" />
+<img width="400" alt="Manus" src="https://github.com/user-attachments/assets/5c55f084-a57b-4bbe-9524-151e1d74cc29" />
 
-欢迎大家入群交流
+欢迎大家加入群交流
 
 并且也给大家免费赠送一些福利
 
